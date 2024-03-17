@@ -1,4 +1,4 @@
-module deniscuculic/serial
+module github.com/deniscuculic/go-seria
 
 go 1.17
 
